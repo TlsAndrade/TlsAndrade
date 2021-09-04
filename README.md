@@ -1,5 +1,6 @@
-### Olá! Meu nome é Thales Andrade Calumby
-- 🌱 Estudando atualmente Sistemas de Informação e Cyber segurança
+# Olá, Meu nome é **Thales Andrade Calumby**!
+
+  ## Sou estudante de Sistemas de informação na Universidade Federal de Santa Maria. Estou em busca do meu aperfeiçoamento em Engenharia de Software e também na área de Segurança da informação.
 
 
 <div>
